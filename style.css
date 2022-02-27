@@ -1,0 +1,48 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#container{
+  font-size: 150px;
+}
+
+#lap{
+  font-size: 80px;
+  padding: 30px;
+  border-radius: 50%;
+  margin: 4px 2px;
+  
+}
+
+#start{
+  font-size: 80px;
+  padding: 30px;
+  border-radius: 50%;
+  margin: 4px 2px;
+  
+}
+
+#laps{
+  display: flex;
+}
+
+#para{
+  flex: 1;
+  font-size: 30px;
+  
+}
+
+#horiLine{
+  text-align: right;
+}
+.labels{
+  font-size: 30px;
+  text-align: right;
+}
+
+
+#innerDiv{
+  flex: 1;
+}
